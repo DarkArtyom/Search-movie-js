@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VitaliiKablukov.github.io/My-Liberty",
+  "homepage": "https://DarkArtyom.github.io/Search-movie-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /My-Liberty/"
+    "build": "parcel build src/*.html --public-url /Search-movie-js/"
   },
   "repository": {
     "type": "git",
